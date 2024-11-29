@@ -1,22 +1,11 @@
-# Fully Customizable
-You have the backend code , You can customize it according to your needs.
+# Fully Customizable and Extendable
+You have the backend code , You can extend it according to your needs.
 
 # Tech Stack - Backend
 1) ExpressJS
 2) NodeJS
 3) MongoDB
 4) Javascript Backend
-
-# Packages
-1) npm init -y
-2) npm i express
-3) npm i colors
-4) npm i nodemon
-5) npm i dotenv
-6) npm i morgan
-7) npm i mongoose
-8) npm i bcrypt
-9) npm i jsonwebtoken
 
 # Project Structure
 
@@ -33,4 +22,18 @@ You have the backend code , You can customize it according to your needs.
     4) Messages
     5) Templates
 9) Validations
+
+
+
+# Packages
+1) npm init -y
+2) npm i express
+3) npm i colors
+4) npm i nodemon
+5) npm i dotenv
+6) npm i morgan
+7) npm i mongoose
+8) npm i bcrypt
+9) npm i jsonwebtoken
+
 
